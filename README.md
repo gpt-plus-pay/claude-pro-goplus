@@ -34,32 +34,18 @@ Claude Pro 适合长期处理文章、资料、代码和报告。相比临时账
 - 想保留自己的对话记录和项目背景；
 - 不想使用共享账号处理私人资料或代码；
 - 没有海外信用卡，希望用微信或支付宝付款；
-- 能进入 Claude Account 页面复制 `Organization ID`。
+- 网络能够正常访问Claude
 
-开始前再确认：
 
-- 当前 Claude 账号不是长期使用账号；
-- 不确定当前登录邮箱；
-- 无法打开 Settings / Account 页面；
-- 暂时无法核对 `Organization ID` 和确认页信息。
-
-## 常见搜索问题
-
-如果你搜索“Claude Pro 自己账号充值”“Claude Pro 原账号开通”，核心诉求是保留自己的项目上下文、写作记录、资料处理习惯和长期对话。
-
-如果你搜索“Claude Pro 无海外信用卡”“Claude Pro 微信支付宝订阅”，重点是通过卡密方式完成付款，再用 `Organization ID` 确认自己的 Claude 账号。
-
-如果你搜索“Claude 用户ID 怎么填”“Organization ID 操作说明”，可以直接看下面的 Account 页面截图和粘贴步骤。
 
 ## 充值前确认
 
 开始前先确认：
 
 1. Claude 账号可以正常登录。
-2. 当前邮箱是要充值的账号。
+2. 当前浏览器登录的是要充值的claude账号
 3. 能在 Settings / Account 中找到 `Organization ID`。
-4. 卡密和订单信息已经保存。
-5. 充值前会核对套餐和账号信息。
+
 
 ## 自己账号充值流程
 
