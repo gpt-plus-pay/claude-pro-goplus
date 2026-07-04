@@ -182,4 +182,5 @@ Claude Pro 自己账号充值的关键是账号归属和 `Organization ID`。流
 
 ## 更新记录
 
+- 2026-07-04：补充独立页面目录、常见搜索问题、自己账号充值异常排查和完整 FAQ。
 - 2026-07-04：升级 GoPlus 版 Claude Pro 自己账号充值指南，补充账号归属、Organization ID 和 FAQ。
