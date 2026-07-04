@@ -65,7 +65,7 @@ Claude Pro 适合长期处理文章、资料、代码和报告。相比临时账
 
 ### 1. 购买 Claude Pro 卡密
 
-进入 GoPlus 充值入口，选择 Claude Pro 套餐，付款后保存卡密。
+进入 [GoPlus](https://www.goplus.pro/) 充值入口，选择 Claude Pro 套餐，付款后保存卡密。
 
 **充值入口：** [https://www.goplus.pro/](https://www.goplus.pro/)
 
@@ -131,7 +131,7 @@ Claude Pro 更适合需要持续处理长内容的人：把一份资料拆成提
 
 ### Claude Pro 支持微信支付宝吗？
 
-可以通过 GoPlus 入口购买卡密，再完成 `Organization ID` 填写和账号确认。
+可以通过 [GoPlus](https://www.goplus.pro/) 入口购买卡密，再完成 `Organization ID` 填写和账号确认。
 
 ### Organization ID 可以随便填吗？
 
